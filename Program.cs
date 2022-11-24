@@ -12,4 +12,12 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+void SortArray(string[] array)
+{
+    for (int i = 0; i <= array.Length - 1; i++)
+    {
+        if (array[i].Length <= 3) Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
 
