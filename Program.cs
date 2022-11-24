@@ -1,6 +1,7 @@
 ﻿//string[] arr = { "hello", "2", "world", ":-)" };
-//string[] arr = { "1234", "1567", "-2", "computer science" };
-string[] arr = { "Russia", "Denmark",  "kazan" };
+//string[] arr = { "Russia", "Denmark",  "kazan" };
+string[] arr = { "1234", "1567", "-2", "computer science" };
+
 
 void PrintArray(string[] array)
 {
