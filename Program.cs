@@ -20,4 +20,6 @@ void SortArray(string[] array)
     }
     Console.WriteLine();
 }
+PrintArray(arr);
+SortArray(arr);
 
